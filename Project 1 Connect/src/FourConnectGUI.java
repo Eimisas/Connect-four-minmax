@@ -2,13 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**
- * You do not have to change anything in this file. 
- * The game moves are executed through calls to the methods mouseClicked(MouseEvent e) and run().
- * 
- * @author Mai Ajspur
- * @version 1.2.2007
- * */
 public class FourConnectGUI extends JComponent implements MouseListener
 {
     static final long 	serialVersionUID = 1234567890;

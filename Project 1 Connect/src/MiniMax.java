@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by flo on 06.03.2017.
- */
 public class MiniMax {
     boolean printOUT = true;
     IGameLogic.Winner compValue;

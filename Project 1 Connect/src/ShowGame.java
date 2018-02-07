@@ -1,18 +1,3 @@
-/**
- *
- * Parses command line parameters and initializes the connect four game.
- *
- * @author Kevin Tierney
- * Code now follows standard Java conventions.
- * @version 28.2.2010
- * 
- *
- * @author Mai Ajspur
- * @version 1.2.2007
- *
- */
-
-
 import javax.swing.*;
 import java.net.URLClassLoader;
 import java.lang.reflect.*;
